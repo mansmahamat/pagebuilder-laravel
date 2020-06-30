@@ -10,6 +10,7 @@
 
     <title><?= $page->get('title') ?></title>
     <link rel="stylesheet" href="<?= phpb_theme_asset('css/style.css') ?>" />
+    <script src="https://kit.fontawesome.com/2466f3c4ea.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <div class="container">
